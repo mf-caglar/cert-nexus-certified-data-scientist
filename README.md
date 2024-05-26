@@ -1,6 +1,6 @@
 # CertNexus Certified Data Scientist Project
 * This project was completed as part of the CertNexus Data Science Practitioner professional certificate program on Coursera. It was not the same as the one in the course. There are some additional codes to obtain a better dataset and models. Indeed, the project here is not complete since the model has overfitting and need some further validations but it will take so much more time and effort and I've already got bored and overwhelmed I simply passed it. Let us make it happen in the next project! 💪🤩
-* See the plots, notebooks and the pickles of models in related folders. There are also presentations in pdf and pptx formats.
+* See the data, plots, notebooks and the pickles of models in related folders. There are also presentations in pdf and pptx formats.
 
 ## Project Overview
 The primary objective of this project was to analyze and process data stored in the company database. We developed three machine learning models to address key business challenges:
