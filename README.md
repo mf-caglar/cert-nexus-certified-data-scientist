@@ -1,5 +1,5 @@
 # CertNexus Certified Data Scientist Project
-* This project was completed as part of the CertNexus Data Science Practitioner professional certificate program on Coursera. It was not the same as the one in the course. There are some additional codes to obtain a better dataset and models.
+* This project was completed as part of the CertNexus Data Science Practitioner professional certificate program on Coursera. It was not the same as the one in the course. There are some additional codes to obtain a better dataset and models. Indeed, the project here is not complete since the model has overfitting and need some further validations but it will take so much more time and effort and I've already got bored and overwhelmed I simply passed it. Let us make happen in the next project! 💪🤩
 
 ## Project Overview
 The primary objective of this project was to analyze and process data stored in the company database. We developed three machine learning models to address key business challenges:
@@ -8,6 +8,8 @@ The primary objective of this project was to analyze and process data stored in 
 * **Customer Segmentation:** Creating segments of customers for targeted business strategies.
   
 ## Key Learnings
-* **Importance of Mathematical Foundation:** This project underscored for me the crucial role of mathematics in machine learning. Concepts such as statistics and linear algebra formed the backbone of our model development process.
 * **Coding Proficiency:** While coding is vital, mastering the underlying mathematical concepts significantly simplifies the implementation process.
 * **Tool Usage:** While tools like ChatGPT and Gemini can expedite certain tasks, they should complement rather than replace creative thinking and exploration. Relying solely on automation can limit our exposure to diverse perspectives and innovative solutions.
+* **Importance of Mathematical Foundation:** This project underscored for me the crucial role of mathematics in machine learning. Concepts such as statistics and linear algebra is forming the backbone of data science projects for real. This time was practicing but now it's time to see some dirty data and crazy math!
+ 
+![https://media1.tenor.com/m/9WYaZM3qXggAAAAC/gargamel.gif]
