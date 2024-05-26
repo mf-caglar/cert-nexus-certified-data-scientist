@@ -1,4 +1,13 @@
-# cert-nexus-certified-data-scientist
-* This is the project completed through Certnexus Data Science Practitioner professional certificate program on Coursera.
-* We aim to analyze and process data stored in the company database and create three machine learning models to predict customer churn and spending and create a customer segmentation for business decisions in the future
-* For me, this project differs in terms of the design of the course. It was not heavily supervised like many others and it shows me that there is a terrific mathematical realm behind all the machine learning processes full of statistics and linear algebra. Coding is also very important but after math is done
+# CertNexus Certified Data Scientist Project
+* This project was completed as part of the CertNexus Data Science Practitioner professional certificate program on Coursera.
+
+## Project Overview
+The primary objective of this project was to analyze and process data stored in the company database. We developed three machine learning models to address key business challenges:
+* **Customer Churn Prediction:** Predicting which customers are likely to churn.
+* **Customer Spending Prediction:** Forecasting customer spending patterns.
+* **Customer Segmentation:** Creating segments of customers for targeted business strategies.
+  
+## Key Learnings
+* **Importance of Mathematical Foundation:** This project underscored for me the crucial role of mathematics in machine learning. Concepts such as statistics and linear algebra formed the backbone of our model development process.
+* **Coding Proficiency:** While coding is vital, mastering the underlying mathematical concepts significantly simplifies the implementation process.
+* **Tool Usage:** While tools like ChatGPT and Gemini can expedite certain tasks, they should complement rather than replace creative thinking and exploration. Relying solely on automation can limit our exposure to diverse perspectives and innovative solutions.
