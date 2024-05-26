@@ -12,4 +12,4 @@ The primary objective of this project was to analyze and process data stored in 
 * **Tool Usage:** While tools like ChatGPT and Gemini can expedite certain tasks, they should complement rather than replace creative thinking and exploration. Relying solely on automation can limit our exposure to diverse perspectives and innovative solutions.
 * **Importance of Mathematical Foundation:** This project underscored for me the crucial role of mathematics in machine learning. Concepts such as statistics and linear algebra is forming the backbone of data science projects for real. This time was practicing but now it's time to see some dirty data and crazy math!
  
-![https://media1.tenor.com/m/9WYaZM3qXggAAAAC/gargamel.gif]
+![](https://media1.tenor.com/m/9WYaZM3qXggAAAAC/gargamel.gif)]
