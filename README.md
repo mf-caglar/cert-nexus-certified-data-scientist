@@ -8,7 +8,7 @@ The primary objective of this project was to analyze and process data stored in 
 * **Customer Segmentation:** Creating segments of customers for targeted business strategies.
   
 ## Key Learnings
-* **Coding Proficiency:** While coding is vital, mastering the underlying mathematical concepts significantly simplifies the implementation process.
+* **Coding Proficiency:** While coding is vital, mastering the underlying concepts significantly simplifies the implementation process.
 * **Tool Usage:** While tools like ChatGPT and Gemini can expedite certain tasks, they should complement rather than replace creative thinking and exploration. Relying solely on automation can limit our exposure to diverse perspectives and innovative solutions.
 * **Importance of Mathematical Foundation:** This project underscored for me the crucial role of mathematics in machine learning. Concepts such as statistics and linear algebra is forming the backbone of data science projects for real. This time was practicing but now it's time to see some dirty data and crazy math!
  
